@@ -16,7 +16,7 @@ from azureml.core.conda_dependencies import CondaDependencies
 import logging
 
 
-__version__='0.0.7'
+__version__='0.1.1'
 
 
 class Ray_On_AML():

@@ -75,11 +75,11 @@ else:
 ### 5. Ray Dashboard
 The easiest way to view Ray dashboard is using the connection from [VSCode for Azure ML](https://code.visualstudio.com/docs/datascience/azure-machine-learning). 
 Open VSCode to your Compute Instance then open a terminal, type http://127.0.0.1:8265/ then ctrl+click to open the Ray Dashboard.
-![VSCode terminal trick](./images/vs_terminal.jpg)
+![VSCode terminal trick](https://github.com/james-tn/ray-on-aml/raw/master/images/vs_terminal.jpg)
 
 This trick tells VScode to forward port to your local machine without having to setup ssh port forwarding using VScode's extension on the CI.
 
-![Ray Dashboard](./images/ray_dashboard.jpg)
+![Ray Dashboard](https://github.com/james-tn/ray-on-aml/raw/master/images/ray_dashboard.jpg)
 
 
 ### 6. Shutdown ray cluster
