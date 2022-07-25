@@ -1,4 +1,4 @@
-# Ray on Azure ML
+# Ray on Azure ML. This repo is deprecated. Please visit its new home at https://github.com/microsoft/ray-on-aml
 
 NEW!
 
